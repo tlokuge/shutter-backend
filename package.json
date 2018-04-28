@@ -1,0 +1,31 @@
+{
+  "name": "trip-photo-backend",
+  "version": "1.0.0",
+  "description": "ExpressJS Backend",
+  "main": "server.js",
+  "dependencies": {
+    "aws-sdk": "^2.226.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlokuge/trip-photo-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "aws"
+  ],
+  "author": "Thavisha Lokuge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlokuge/trip-photo-backend/issues"
+  },
+  "homepage": "https://github.com/tlokuge/trip-photo-backend#readme"
+}
